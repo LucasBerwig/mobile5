@@ -9,11 +9,12 @@ Uma aplicação que busca apresentar a troca de telas de interface que
 se ligam uma a outra 
 
 
-## 🔧 Funcionalidades da Calculadora de Potencia: 
+## 🔧 Funcionalidades da Troca dela: 
 
 - [x] Tela principal (tela com opções);
+- [x] Tela Secundaria ( que se troca com a Tela principal)
 - [x] Tela de visualização de dados;
-- [x] Tela de cadastro. 
+
 
 
 ## 🚀 Tecnologias Utilizadas
